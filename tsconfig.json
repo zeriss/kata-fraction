@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "outDir": "./built",
+        "allowJs": false,
+        "target": "es6",
+        "module": "NodeNext",
+        "moduleResolution": "NodeNext"
+    },
+    "include": ["./src/**/*", "test/Fraction.spec.ts"]
+}
